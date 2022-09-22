@@ -86,7 +86,7 @@ $email=$_SESSION['email']; //include auth.php file on all secure pages ?>
                 <div class="col-sm-5" id="second-para" data-aos=zoom-in>
                     <p class="space">
                          Ime i prezime: Marina Ćavar i Mila Lovrić</br>
-                         Vizija: <link href="" rel="stylesheet"></br>
+                         
                          Zanimanje: studentice (Fakultet strojarstva, računarstva i elektrotehnike u Mostaru)</br>
                          email: marina.cavar@fsre.sum.ba   mila.lovric@fsre.sum.ba 
 
