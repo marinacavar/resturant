@@ -85,8 +85,7 @@ require("db.php");
             <div class="row">
                 <div class="col-sm-5" id="second-para" data-aos=zoom-in>
                     <p class="space">
-                         Ime i prezime: Marina Ćavar i Mila Lovrić</br>
-                         Vizija: <link href="" rel="stylesheet"></br>
+                          Ime i prezime: Marina Ćavar i Mila Lovrić</br>
                          Zanimanje: studentice (Fakultet strojarstva, računarstva i elektrotehnike u Mostaru)</br>
                          email: marina.cavar@fsre.sum.ba   mila.lovric@fsre.sum.ba 
 
